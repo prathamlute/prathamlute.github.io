@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Invitation Letter</title>
+</head>
+<body>
+    <body style="background-color:blanchedalmond;"></body>
+<center><h1 style="color:blueviolet" style="border:1px solid;"> <b>Invitation Letter</b></h1></center>
+<center><h2 style="color:blueviolet;"> <i>Sports Evets</i></h2></center>
+<center><h3><i>in</i></h3></center>
+<center><h3 style="color:darkslateblue"> <b> S.B. Jain Institute of Technology , Management & Research , Nagpur</b> </h3></center>
+ <center><h4> Envent for 3days  </h4></center> 
+ <center><h4 style="color:crimson"> Event Date: 1 <sup>st</sup> , 2 <sup>st</sup> , 3 <sup>st</sup> of June 2022</h4></center> 
+ <center><h4>Time of Event of a day : 9am to 6pm</h4></center> 
+ <center><p>There is Sports Event of Outdoor Games will be Organising in SB Jain Institute Of Technology Management & Research , Nagpur on  1 <sup>st</sup> to 3 <sup>st</sup> of June 2022 
+    <br>
+    That will be intercollege tournament and there many teams are participated for Sports Event, There are Differents of Games </p></center>
+    <center><h3>Organised Games</h3></center>
+    <ol type="."></ol>
+    <center><li>Cricket</li></center>
+    <center><li>ThroughBall</li></center>
+    <center><li>FootBall</li></center>
+    <center><li>valleyBall</li></center>
+    <center><li>Kabaddi</li></center>
+    <center><li>Badminton</li></center>
+ <center><h3 style="color:darkmagenta"><strike>Paid Entry</strike> Free Entry</h3></center>
+ <marquee behavior="40" direction="right">Lets Play</marquee>
+ <marquee behavior="40" direction="left">Lets PLay</marquee>
+ This is organised in Campus of SBJIT and Organised by Students Of SBJIT
+ 
+</body>
+</html>
